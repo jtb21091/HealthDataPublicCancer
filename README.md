@@ -1,2 +1,2 @@
-# HealthDataPublic
-Random public health data insights 
+# HealthDataPublicCancer
+Random public health data insights about cancer
